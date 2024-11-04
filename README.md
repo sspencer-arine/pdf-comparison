@@ -1,3 +1,11 @@
+# pdf comparison
+
+`yarn install`
+
+`yarn dev`
+
+http://localhost:5173/sample?page=0
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
